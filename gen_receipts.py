@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 # using random and json libs
-gi
+
 import random, os, json
 
 count = os.getenv("FILE_COUNT") or 100
